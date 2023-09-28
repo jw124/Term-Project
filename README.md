@@ -8,7 +8,7 @@ The code for CS427 Android app.
 | Name          | NetID         | GitHub ID   | Role          | Experience    |
 | ------------- | ------------- | ------------| ------------- | ------------- |
 |               |               |             |               |               |            
-|               |               |             |               |               |
+|Ji Wu          |   jw124       |  jw124      |  develop      |Java and python|
 |               |               |             |               |               |
 |               |               |             |               |               |
 |               |               |             |               |               |
